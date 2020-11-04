@@ -1,5 +1,7 @@
 # A note to the reader
 
+Imagine a black expanse, dotted with a random assortment of blue bubbles.
+
 I fundamentally believe that every person lives in their own little universe, almost completely disconnected from everyone else.
 Each universe is constructed based on both intrinsic and extrinsic factors that form that individual's experiences.
 In many ways, I imagine these pocket universes all floating around in some common reality.
